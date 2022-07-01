@@ -1,1 +1,2 @@
-# application1
+# jupyter_notebook code
+# from colab, etc
